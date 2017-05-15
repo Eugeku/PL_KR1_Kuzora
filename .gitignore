@@ -45,3 +45,20 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+*.OBJ
+tasm/INCLUDE/KBD.INC
+*.INC
+tasm/KRV1.asm
+*.EXE
+*.png
+bin/KRV1.LST
+*.MAP
+bin/KRV2.LST
+*.LST
+tasm/KRV2.asm
+tasm/KRV3.asm
+*.cmd
+tasm/tasm.rar
+*.TR
+tasm/Новый текстовый документ.txt
+*.docx
